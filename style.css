@@ -1,0 +1,60 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("mail.google.com"){
+ 
+    html:not(.aAX){height:100% !important;}
+    html:not(.aAX) body{overflow-y:scroll !important;overflow-x:auto !important;}
+    html body.xE{background:#000 !important;}
+    html:not(.aAX) body .NG,
+    html:not(.aAX) body .Hy .k,
+    html:not(.aAX) body .NJ{background:#000 !important;opacity:1 !important;border:none !important;}
+    html:not(.aAX) body .NJ div{display:none;}
+    html:not(.aAX) body .NH,
+    html:not(.aAX) body .AI{background:#000 !important;}
+    html:not(.aAX) body .Hp{color:#bbb !important;}
+    html:not(.aAX) body .kX{border:none !important;}
+    html:not(.aAX) .nH{height:auto !important;width:auto !important;}
+    html:not(.aAX) .ko{background:#000 !important;color:#bbb !important;font-family:Courier,Times,serif;border:none !important;height:auto !important;overflow:visible !important;}
+    html:not(.aAX) .aeh{background:#000 !important;border:none !important;}
+    html:not(.aAX) .ad3{float:left;}
+    html:not(.aAX) .jw{color:#000 !important;}
+    html:not(.aAX) .kk,
+    html:not(.aAX) .kl,
+    html:not(.aAX) .kq,
+    html:not(.aAX) .kg{margin-bottom:0 !important;font-size:14px;}
+    html:not(.aAX) .kg span{margin-left:-8px;}
+    html:not(.aAX) .kl img{display:inline-block !important;}
+    html:not(.aAX) .kk{position:relative;}
+    html:not(.aAX) .km img{opacity:0.2 !important;}
+    html:not(.aAX) .km img:hover{opacity:0.8 !important;}
+    html:not(.aAX) .kk img:before{display:block;content:"ola buenos dias";color:#fff !important;border:10px solid #f00 !important;position:absolute !important;z-index:9999;top:0px;left:0px;width:100px;height:100px;}
+    html:not(.aAX) .km{margin-left:0 !important;}
+    html:not(.aAX) .kq{margin-left:0.5em !important;}
+    html:not(.aAX) .kn{margin-left:-0.5em !important;color:#f55!important;}
+    html:not(.aAX) .kn+span{margin-left:-8px !important;}
+    html:not(.aAX) .gN,
+    html:not(.aAX) .ad3{background:#000;border:none !important;}
+    html:not(.aAX) .ad3{color:#bbb !important;font-family:Courier, Times, Serif !important;}
+    html:not(.aAX) .aeh{padding:0px !important;}
+    html:not(.aAX) .aeh .js{color:#555 !important;text-align:left !important;text-indent:5px;}
+    html:not(.aAX) .gv,
+    html:not(.aAX) .gw,
+    html:not(.aAX) .jT,
+    html:not(.aAX) .f7{border:none !important;}
+    html:not(.aAX) .jp{background:#000 !important;border:none !important;}
+    html:not(.aAX) .He{border:none !important;}
+    html:not(.aAX) .He span{color:#555;font-family:Courier,Times, Serif;cursor:pointer;}
+    html:not(.aAX) .He:hover{background:#000 !important;color:#555 !important;}
+    html:not(.aAX) .kk a,
+    html:not(.aAX) .kq a,
+    html:not(.aAX) .kl a,
+    html:not(.aAX) .kk a:visited,
+    html:not(.aAX) .kl a:visited,
+    html:not(.aAX) .kq a:visited{color:#0b0 !important;text-decoration:none !important;}
+    html:not(.aAX) .lk{border:none !important;margin-left:0 !important;}
+   
+   
+    /* Little icone smiley */
+    html:not(.aAX) .jn{display:none;}
+
+}
